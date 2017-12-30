@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <!--Status bar color-->
+        <item name="colorPrimaryDark">#ed96a7a7</item>//colorPrimaryDark表示状态栏的颜色
+        <!--Window color-->
+        <item name="android:windowBackground">@color/colorp</item>
+    </style>
+<style name="tab_text">
+    <item name="android:textSize">17sp</item>
+</style>
+    <!--<style name="text">-->
+        <!--<item name="android:layout_width">match_parent</item>-->
+        <!--<item name="android:layout_height">20dp</item>-->
+        <!--<item name="android:layout_gravity">bottom</item>-->
+        <!--<item name="android:background">@color/hui</item>-->
+    <!--</style>-->
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rating_small_empty"
+        android:drawable="@drawable/rating_small_empty"/>
+    <item
+        android:id="@+id/rating_small_half"
+        android:drawable="@drawable/rating_small_half"/>
+    <item
+        android:id="@+id/rating_small_full"
+        android:drawable="@drawable/rating_small_full"/>
+</layer-list>
